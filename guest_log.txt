@@ -1,0 +1,9 @@
+Name          Number        Date          Machine       Entry_time    
+Jeff          1234343       oct 16        Machine- 1    Sat Oct 16 11:13:45 EDT 2021
+sophie        44234         oct 30        Machine- 2    Sat Oct 16 11:14:15 EDT 2021
+Jeff C        1357924680    Dec 12        Machine- 1    Sat Oct 16 11:21:38 EDT 2021
+Alex          01234         feb 5         Machine- 2    Sat Oct 16 11:32:54 EDT 2021
+Jack          2899347801    Mar 12        Machine- 3    Sat Oct 16 11:41:44 EDT 2021
+test          123456789     nov 11        Machine- 1    Sat Oct 16 12:03:26 EDT 2021
+susan         0987654321    sept 6        Machine- 1    Sat Oct 16 12:09:07 EDT 2021
+jeff          123456789     Nov 12        Machine- 1    Fri Dec 03 20:52:06 EST 2021
